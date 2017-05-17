@@ -5,6 +5,7 @@
 }
 body {
  font: 13px Helvetica, Arial;
+ background: url("http://4.bp.blogspot.com/-0cFm5B_AboQ/VOpVmHv1yFI/AAAAAAAACEU/EQwxrOqVF-0/s1600/hd-dark-wallpapers-widescreen-29220-hd-wallpapers-in-abstract.jpg")
   }
 form {
 	background: #000;
@@ -34,5 +35,15 @@ form button {
 	padding: 5px 10px;
 }
 #messages li:nth-child(odd) {
-	background: #eee; 
+	
 }
+.name {
+	margin-bottom: 5px;
+}
+.text {
+	background-color: #dce5f4;
+}
+li {
+	color:blue;
+}
+	
